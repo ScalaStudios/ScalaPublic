@@ -12,7 +12,7 @@ Scala is a reliable and quality Discord bot made in Eris and TypeScript that doe
 - Stability. The Scala infrastructure is prepared to detect errors quickly and that those errors do not crash or damage other parts of the code, so we have a great uptime. More than 30 minutes of downtime we would consider it a failure for our code and for development.
 
 ### Invite Scala
-- You can invite Scala from [this link](https://discord.com/oauth2/authorize?client_id=848164035785523261&permissions=8&scope=bot%20applications.commands)
+- You can invite Scala from [this link](https://discord.com/oauth2/authorize?client_id=848164035785523261&permissions=8&scope=bot%20applications.commands) or join our support server [here](https://discord.gg/a9W77W5Tjg)
 
 ### Menus, slash commands and buttons
 - If you have trouble with any button, slash command, or menu, update your Discord app.
