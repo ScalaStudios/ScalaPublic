@@ -14,5 +14,8 @@ Scala is a reliable and quality Discord bot made in Eris and TypeScript that doe
 ### Invite Scala
 - You can invite Scala from [this link](https://discord.com/oauth2/authorize?client_id=848164035785523261&permissions=8&scope=bot%20applications.commands) or join our support server [here](https://discord.gg/a9W77W5Tjg)
 
+### Wiki
+- You can read the wiki [here](https://github.com/ScalaStudios/ScalaPublic/wiki)
+
 ### Menus, slash commands and buttons
 - If you have trouble with any button, slash command, or menu, update your Discord app.
